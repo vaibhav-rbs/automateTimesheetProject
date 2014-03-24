@@ -11,7 +11,4 @@ Present the process is:
    ii. approving authority does not approves and timesheet is sent back to user for rework.
 6. i.  user sends manually approved timesheet to accounts person.
    ii. user does everthing again from step 2.
-
-
-========================
 Now I aim to eliminate the manual process for signing/approving of docs. 
