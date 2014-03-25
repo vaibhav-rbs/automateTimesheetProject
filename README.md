@@ -11,4 +11,12 @@ Present the process is:
    ii. approving authority does not approves and timesheet is sent back to user for rework.
 6. i.  user sends manually approved timesheet to accounts person.
    ii. user does everthing again from step 2.
-Now I aim to eliminate the manual process for signing/approving of docs. 
+Now I aim to eliminate the manual process for signing/approving of docs.
+
+Project datamodel refrences:
+http://stackoverflow.com/questions/3282403/database-schema-for-timesheet
+http://stackoverflow.com/questions/10526625/database-schema-that-manages-weekly-timesheets?rq=1
+http://stackoverflow.com/questions/10625642/timesheet-database-schema?rq=1
+
+Project datamodel schema:
+https://www.dropbox.com/s/uadl5689v9j0jcs/timesheet_model_schema.sql
